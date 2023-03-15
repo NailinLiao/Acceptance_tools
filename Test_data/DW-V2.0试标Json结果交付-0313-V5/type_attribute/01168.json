@@ -1,0 +1,156 @@
+{
+    "type_attribute": [
+        {
+            "obj_id": 1,
+            "type": "tow_truck"
+        },
+        {
+            "obj_id": 2,
+            "type": "Car"
+        },
+        {
+            "obj_id": 3,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 6,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 7,
+            "type": "light_truck"
+        },
+        {
+            "obj_id": 8,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 9,
+            "type": "Car"
+        },
+        {
+            "obj_id": 5,
+            "type": "Car"
+        },
+        {
+            "obj_id": 10,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 11,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 12,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 13,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 14,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 15,
+            "type": "Car"
+        },
+        {
+            "obj_id": 16,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 17,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 18,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 19,
+            "type": "light_truck"
+        },
+        {
+            "obj_id": 20,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 21,
+            "type": "Car"
+        },
+        {
+            "obj_id": 22,
+            "type": "Car"
+        },
+        {
+            "obj_id": 23,
+            "type": "Car"
+        },
+        {
+            "obj_id": 24,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 25,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 26,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 27,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 28,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 29,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 30,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 31,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 32,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 33,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 34,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 35,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 36,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 37,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 38,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 4,
+            "type": "other_dontcare"
+        }
+    ]
+}

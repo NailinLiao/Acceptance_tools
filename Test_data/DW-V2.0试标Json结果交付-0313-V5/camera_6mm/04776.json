@@ -1,0 +1,77 @@
+{
+    "camera_6mm": [
+        {
+            "obj_id": 1,
+            "truncation": 3,
+            "occluded": 0,
+            "xmax": 1920,
+            "xmin": 1538.6,
+            "ymax": 1080.4,
+            "ymin": 789.5
+        },
+        {
+            "obj_id": 2,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1210.5,
+            "xmin": 1088.3,
+            "ymax": 618.9,
+            "ymin": 505.6
+        },
+        {
+            "obj_id": 5,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 817.2,
+            "xmin": 589.9,
+            "ymax": 688.2,
+            "ymin": 417
+        },
+        {
+            "obj_id": 6,
+            "truncation": 0,
+            "occluded": 2,
+            "xmax": 603.5,
+            "xmin": 515.7,
+            "ymax": 651.1,
+            "ymin": 581.1
+        },
+        {
+            "obj_id": 7,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 847.6,
+            "xmin": 819.5,
+            "ymax": 564.8,
+            "ymin": 525.8
+        },
+        {
+            "obj_id": 8,
+            "truncation": 0,
+            "occluded": 2,
+            "xmax": 860.7,
+            "xmin": 834.2,
+            "ymax": 562.8,
+            "ymin": 527.6
+        },
+        {
+            "obj_id": 9,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 998.7,
+            "xmin": 978.1,
+            "ymax": 553.6,
+            "ymin": 530
+        },
+        {
+            "obj_id": 10,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1046,
+            "xmin": 1018.2,
+            "ymax": 568.1,
+            "ymin": 547
+        }
+    ],
+    "timeStamp": 1678706122.678818
+}

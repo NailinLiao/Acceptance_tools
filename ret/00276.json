@@ -1,0 +1,466 @@
+{
+  "targets": [
+    {
+      "obj_id": 1,
+      "type": "light_truck",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1179.5,
+        "xmin": 822.8,
+        "ymax": 517,
+        "ymin": 812.1
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1437.6,
+        "xmin": 744.8,
+        "ymax": 478.1,
+        "ymin": 1036.8
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "rotation_y": 0.019794733625303707,
+        "w": 2.5237066747820673,
+        "h": 2.5208333333333335,
+        "l": 6.052136929511701,
+        "x": 14.849717363799318,
+        "y": -0.32773817437828545,
+        "z": -0.7395833333333333
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false,
+        "brake_lights_on": true
+      }
+    },
+    {
+      "obj_id": 2,
+      "type": "Car",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1524.4,
+        "xmin": 1259.6,
+        "ymax": 625.9,
+        "ymin": 809.4
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 1,
+        "occluded": 0,
+        "xmax": 1920,
+        "xmin": 1604.8,
+        "ymax": 659.4,
+        "ymin": 1003.7
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "rotation_y": -0.006642903027654043,
+        "w": 1.8103505852670816,
+        "h": 1.4543565133064291,
+        "l": 4.1757953975261275,
+        "x": 17.305674573787307,
+        "y": -3.9353020548034277,
+        "z": -1.2469595921286836
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false,
+        "brake_lights_on": true
+      }
+    },
+    {
+      "obj_id": 3,
+      "type": "light_truck",
+      "camera_6mm_2DBox": {
+        "truncation": 1,
+        "occluded": 0,
+        "xmax": 2610.3,
+        "xmin": 1526.3,
+        "ymax": 196.8,
+        "ymin": 1298
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 0,
+        "rotation_y": -0.009120879961989101,
+        "w": 2.5935875093669796,
+        "h": 3.401426033159659,
+        "l": 5.831510720575562,
+        "x": 7.923185450424366,
+        "y": -4.346053396364581,
+        "z": -0.2992869834201704
+      },
+      "car_attribute": {
+        "all_lights_off": true,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 4,
+      "type": "Car",
+      "camera_6mm_2DBox": {
+        "truncation": 1,
+        "occluded": 0,
+        "xmax": 1252.7,
+        "xmin": 718.5,
+        "ymax": 738.2,
+        "ymin": 1292.8
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 3,
+        "occluded": 0,
+        "xmax": 1428,
+        "xmin": 671.7,
+        "ymax": 892.4,
+        "ymin": 1906.4
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 0,
+        "rotation_y": -0.008860776062571208,
+        "w": 1.829806079212073,
+        "h": 1.441746936895112,
+        "l": 4.395436609937311,
+        "x": 7.692268862523445,
+        "y": -0.13197037731307096,
+        "z": -1.218915071142344
+      },
+      "car_attribute": {
+        "all_lights_off": true,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 5,
+      "type": "Car",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "xmax": 1387.2,
+        "xmin": 1218,
+        "ymax": 600.2,
+        "ymin": 725.5
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "xmax": 1836.8,
+        "xmin": 1521.6,
+        "ymax": 613.2,
+        "ymin": 856
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "rotation_y": 0.0007831512292817427,
+        "w": 1.651905853280698,
+        "h": 1.5074170492878254,
+        "l": 4.3594575351345215,
+        "x": 24.94004010026387,
+        "y": -4.473756395563459,
+        "z": -1.2462914753560874
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false,
+        "brake_lights_on": true
+      }
+    },
+    {
+      "obj_id": 6,
+      "type": "Car",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1252.8,
+        "xmin": 1140,
+        "ymax": 582.3,
+        "ymin": 670.4
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1596.8,
+        "xmin": 1373.7,
+        "ymax": 583.9,
+        "ymin": 763
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "rotation_y": 0.004633022756430905,
+        "w": 1.6862055916376677,
+        "h": 1.4822877766438285,
+        "l": 4.246044019278845,
+        "x": 33.860982977744456,
+        "y": -4.316585394287518,
+        "z": -1.2471463506250466
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false,
+        "brake_lights_on": true
+      }
+    },
+    {
+      "obj_id": 7,
+      "type": "Car",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "xmax": 1300.2,
+        "xmin": 1228.9,
+        "ymax": 568.9,
+        "ymin": 614
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "xmax": 1688.1,
+        "xmin": 1547.4,
+        "ymax": 555.5,
+        "ymin": 640.7
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 2,
+        "rotation_y": -0.1504541255657978,
+        "w": 1.5642150489813265,
+        "h": 1.4166666666666663,
+        "l": 4.141297815892174,
+        "x": 52.03317143981262,
+        "y": -8.458983371410756,
+        "z": -1.2916666666666672
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false,
+        "brake_lights_on": true
+      }
+    },
+    {
+      "obj_id": 8,
+      "type": "motorcycle",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1411.8,
+        "xmin": 1361.3,
+        "ymax": 572.4,
+        "ymin": 626.3
+      },
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1901.7,
+        "xmin": 1803.7,
+        "ymax": 553.7,
+        "ymin": 654.9
+      },
+      "3DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "rotation_y": -1.5407553553628983,
+        "w": 0.8343428171702504,
+        "h": 1.028109123180211,
+        "l": 1.6226888579593088,
+        "x": 55.81726319753081,
+        "y": -12.899747560584784,
+        "z": -1.3676997750383593
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 9,
+      "type": "other_dontcare",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 0,
+        "xmax": 1533.3,
+        "xmin": 1526.8,
+        "ymax": 595.3,
+        "ymin": 631.7
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 10,
+      "type": "other_dontcare",
+      "camera_6mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1328.9,
+        "xmin": 1323.2,
+        "ymax": 578.4,
+        "ymin": 602.3
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 11,
+      "type": "other_dontcare",
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1739,
+        "xmin": 1729.7,
+        "ymax": 568.1,
+        "ymin": 618.4
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    },
+    {
+      "obj_id": 12,
+      "type": "other_dontcare",
+      "camera_12mm_2DBox": {
+        "truncation": 0,
+        "occluded": 1,
+        "xmax": 1696.5,
+        "xmin": 1689.6,
+        "ymax": 566.4,
+        "ymin": 612.9
+      },
+      "car_attribute": {
+        "all_lights_off": false,
+        "brake_light_on": false,
+        "left_signal_visible": false,
+        "right_signal_visible": false,
+        "double_flash_on": false,
+        "head_front": false,
+        "head_behind": false,
+        "head_left": false,
+        "head_right": false,
+        "police": false,
+        "emergency": false,
+        "cleaning_trolley": false
+      }
+    }
+  ],
+  "timeStamp": 1678271683.725351
+}

@@ -1,0 +1,100 @@
+{
+    "type_attribute": [
+        {
+            "obj_id": 2,
+            "type": "tricycle"
+        },
+        {
+            "obj_id": 3,
+            "type": "motorcycle"
+        },
+        {
+            "obj_id": 10,
+            "type": "trailer"
+        },
+        {
+            "obj_id": 11,
+            "type": "motorcycle"
+        },
+        {
+            "obj_id": 7,
+            "type": "motorcycle"
+        },
+        {
+            "obj_id": 6,
+            "type": "Car"
+        },
+        {
+            "obj_id": 8,
+            "type": "Car"
+        },
+        {
+            "obj_id": 9,
+            "type": "bus"
+        },
+        {
+            "obj_id": 5,
+            "type": "Car"
+        },
+        {
+            "obj_id": 4,
+            "type": "Car"
+        },
+        {
+            "obj_id": 15,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 16,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 1000,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 14,
+            "type": "heavy_truck"
+        },
+        {
+            "obj_id": 17,
+            "type": "Car"
+        },
+        {
+            "obj_id": 18,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 19,
+            "type": "Car"
+        },
+        {
+            "obj_id": 20,
+            "type": "Car"
+        },
+        {
+            "obj_id": 21,
+            "type": "motorcycle"
+        },
+        {
+            "obj_id": 13,
+            "type": "motorcycle"
+        },
+        {
+            "obj_id": 22,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 23,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 1,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 6,
+            "type": "Van"
+        }
+    ]
+}

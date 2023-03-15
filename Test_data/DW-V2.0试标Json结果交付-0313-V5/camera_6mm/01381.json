@@ -1,0 +1,50 @@
+{
+    "camera_6mm": [
+        {
+            "obj_id": 1,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 982.8,
+            "xmin": 907.1,
+            "ymax": 637.1,
+            "ymin": 570.4
+        },
+        {
+            "obj_id": 2,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 858,
+            "xmin": 793.1,
+            "ymax": 617.5,
+            "ymin": 564.6
+        },
+        {
+            "obj_id": 3,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 889.9,
+            "xmin": 852.2,
+            "ymax": 584.7,
+            "ymin": 553.2
+        },
+        {
+            "obj_id": 4,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 954.1,
+            "xmin": 942.1,
+            "ymax": 553.1,
+            "ymin": 537.6
+        },
+        {
+            "obj_id": 5,
+            "truncation": 0,
+            "occluded": 3,
+            "xmax": 750.7,
+            "xmin": 719.2,
+            "ymax": 575,
+            "ymin": 552.7
+        }
+    ],
+    "timeStamp": 1678706122.678084
+}

@@ -1,0 +1,158 @@
+{
+    "camera_12mm": [
+        {
+            "obj_id": 3,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 287,
+            "xmin": 210.2,
+            "ymax": 747.8,
+            "ymin": 614.4
+        },
+        {
+            "obj_id": 4,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 615.4,
+            "xmin": 446.6,
+            "ymax": 727.1,
+            "ymin": 594.8
+        },
+        {
+            "obj_id": 5,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 914.2,
+            "xmin": 766,
+            "ymax": 690.3,
+            "ymin": 576.3
+        },
+        {
+            "obj_id": 7,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1170.3,
+            "xmin": 1096.5,
+            "ymax": 694.4,
+            "ymin": 569.9
+        },
+        {
+            "obj_id": 6,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1472.5,
+            "xmin": 1311.2,
+            "ymax": 689.5,
+            "ymin": 527.8
+        },
+        {
+            "obj_id": 8,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1351.7,
+            "xmin": 1241.4,
+            "ymax": 643.1,
+            "ymin": 549.9
+        },
+        {
+            "obj_id": 9,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1281.4,
+            "xmin": 1138.6,
+            "ymax": 624.2,
+            "ymin": 469.7
+        },
+        {
+            "obj_id": 18,
+            "truncation": 0,
+            "occluded": 4,
+            "xmax": 1245.9,
+            "xmin": 1117.9,
+            "ymax": 614.7,
+            "ymin": 449.4
+        },
+        {
+            "obj_id": 14,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1095.2,
+            "xmin": 1024.4,
+            "ymax": 550.5,
+            "ymin": 465.1
+        },
+        {
+            "obj_id": 19,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 953.1,
+            "xmin": 925.5,
+            "ymax": 544.9,
+            "ymin": 513.3
+        },
+        {
+            "obj_id": 20,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 877.1,
+            "xmin": 834.4,
+            "ymax": 561.4,
+            "ymin": 525.3
+        },
+        {
+            "obj_id": 11,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 658.2,
+            "xmin": 632.6,
+            "ymax": 611.9,
+            "ymin": 553.8
+        },
+        {
+            "obj_id": 10,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 633.6,
+            "xmin": 489.7,
+            "ymax": 607,
+            "ymin": 484.7
+        },
+        {
+            "obj_id": 21,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 733.7,
+            "xmin": 721.2,
+            "ymax": 557.7,
+            "ymin": 538.1
+        },
+        {
+            "obj_id": 13,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1006.8,
+            "xmin": 982.8,
+            "ymax": 558.6,
+            "ymin": 522.9
+        },
+        {
+            "obj_id": 22,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 795.1,
+            "xmin": 769.5,
+            "ymax": 431.8,
+            "ymin": 415.2
+        },
+        {
+            "obj_id": 23,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 772.8,
+            "xmin": 750.6,
+            "ymax": 428.9,
+            "ymin": 409.1
+        }
+    ],
+    "timeStamp": 1678706227.371676
+}

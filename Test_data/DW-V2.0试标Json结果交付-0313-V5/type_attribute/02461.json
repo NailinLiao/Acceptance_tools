@@ -1,0 +1,112 @@
+{
+    "type_attribute": [
+        {
+            "obj_id": 1,
+            "type": "Car"
+        },
+        {
+            "obj_id": 5,
+            "type": "traffic_cone"
+        },
+        {
+            "obj_id": 6,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 2,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 9,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 10,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 11,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 12,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 13,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 14,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 15,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 16,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 2,
+            "type": "traffic_cone"
+        },
+        {
+            "obj_id": 17,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 18,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 19,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 20,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 21,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 22,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 23,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 24,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 25,
+            "type": "Car"
+        },
+        {
+            "obj_id": 26,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 27,
+            "type": "traffic_cone"
+        },
+        {
+            "obj_id": 1,
+            "type": "Van"
+        },
+        {
+            "obj_id": 6,
+            "type": "traffic_cone"
+        },
+        {
+            "obj_id": 8,
+            "type": "other_dontcare"
+        }
+    ]
+}

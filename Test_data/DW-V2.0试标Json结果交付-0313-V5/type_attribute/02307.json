@@ -1,0 +1,64 @@
+{
+    "type_attribute": [
+        {
+            "obj_id": 1,
+            "type": "Car"
+        },
+        {
+            "obj_id": 2,
+            "type": "Car"
+        },
+        {
+            "obj_id": 3,
+            "type": "Car"
+        },
+        {
+            "obj_id": 4,
+            "type": "Car"
+        },
+        {
+            "obj_id": 5,
+            "type": "tricycle"
+        },
+        {
+            "obj_id": 6,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 7,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 8,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 9,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 10,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 11,
+            "type": "Truck"
+        },
+        {
+            "obj_id": 12,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 13,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 14,
+            "type": "other_dontcare"
+        },
+        {
+            "obj_id": 4,
+            "type": "Van"
+        }
+    ]
+}

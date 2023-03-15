@@ -1,0 +1,50 @@
+{
+    "camera_12mm": [
+        {
+            "obj_id": 1,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1067.4,
+            "xmin": 920.2,
+            "ymax": 709.8,
+            "ymin": 578
+        },
+        {
+            "obj_id": 2,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 827.7,
+            "xmin": 700.4,
+            "ymax": 676.5,
+            "ymin": 574.4
+        },
+        {
+            "obj_id": 3,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 889.5,
+            "xmin": 816.1,
+            "ymax": 609.1,
+            "ymin": 548.9
+        },
+        {
+            "obj_id": 6,
+            "truncation": 0,
+            "occluded": 0,
+            "xmax": 1012.5,
+            "xmin": 991.3,
+            "ymax": 542.7,
+            "ymin": 513
+        },
+        {
+            "obj_id": 7,
+            "truncation": 0,
+            "occluded": 2,
+            "xmax": 620.2,
+            "xmin": 560,
+            "ymax": 595.9,
+            "ymin": 557.7
+        }
+    ],
+    "timeStamp": 1678706227.372369
+}

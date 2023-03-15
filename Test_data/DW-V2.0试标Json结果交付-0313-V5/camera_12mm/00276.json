@@ -1,0 +1,86 @@
+{
+    "camera_12mm": [
+        {
+            "obj_id": 1,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1437.6,
+            "xmin": 744.8,
+            "ymax": 1036.8,
+            "ymin": 478.1
+        },
+        {
+            "obj_id": 2,
+            "truncation": 1,
+            "occluded": 0,
+            "xmax": 1920,
+            "xmin": 1604.8,
+            "ymax": 1003.7,
+            "ymin": 659.4
+        },
+        {
+            "obj_id": 4,
+            "truncation": 3,
+            "occluded": 0,
+            "xmax": 1428,
+            "xmin": 671.7,
+            "ymax": 1906.4,
+            "ymin": 892.4
+        },
+        {
+            "obj_id": 5,
+            "truncation": 0,
+            "occluded": 2,
+            "xmax": 1836.8,
+            "xmin": 1521.6,
+            "ymax": 856,
+            "ymin": 613.2
+        },
+        {
+            "obj_id": 6,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1596.8,
+            "xmin": 1373.7,
+            "ymax": 763,
+            "ymin": 583.9
+        },
+        {
+            "obj_id": 7,
+            "truncation": 0,
+            "occluded": 2,
+            "xmax": 1688.1,
+            "xmin": 1547.4,
+            "ymax": 640.7,
+            "ymin": 555.5
+        },
+        {
+            "obj_id": 8,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1901.7,
+            "xmin": 1803.7,
+            "ymax": 654.9,
+            "ymin": 553.7
+        },
+        {
+            "obj_id": 11,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1739,
+            "xmin": 1729.7,
+            "ymax": 618.4,
+            "ymin": 568.1
+        },
+        {
+            "obj_id": 12,
+            "truncation": 0,
+            "occluded": 1,
+            "xmax": 1696.5,
+            "xmin": 1689.6,
+            "ymax": 612.9,
+            "ymin": 566.4
+        }
+    ],
+    "timeStamp": 1678706227.376678
+}
